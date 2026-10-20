@@ -5420,6 +5420,7 @@ src/Tests/Nop.Tests/Nop.Services.Tests/Common/GenericAttributeServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Common/NopLinksDefaultsTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Common/AddressServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Common/AttributeParserTests.cs
+src/Tests/Nop.Tests/Nop.Services.Tests/Common/SearchTermServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Customers/CustomerServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Customers/CustomerRegistrationServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Stores/StoreServiceTests.cs
@@ -5446,6 +5447,7 @@ src/Tests/Nop.Tests/Nop.Services.Tests/CrudData.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Themes/ThemeProviderTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Tax/TaxServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Tax/FixedRateTestTaxProvider.cs
+src/Tests/Nop.Tests/Nop.Services.Tests/Tax/TestCheckVatService.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Tax/TaxCategoryServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Payments/PaymentServiceTests.cs
 src/Tests/Nop.Tests/Nop.Services.Tests/Payments/TestPaymentMethod.cs

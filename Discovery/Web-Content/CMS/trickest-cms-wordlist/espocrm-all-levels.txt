@@ -30404,6 +30404,11 @@ Espo/ORM/Exceptions/PersistenceException.php
 ORM/Exceptions/PersistenceException.php
 Exceptions/PersistenceException.php
 PersistenceException.php
+application/Espo/ORM/Exceptions/DeadlockException.php
+Espo/ORM/Exceptions/DeadlockException.php
+ORM/Exceptions/DeadlockException.php
+Exceptions/DeadlockException.php
+DeadlockException.php
 application/Espo/ORM/Defs.php
 Espo/ORM/Defs.php
 ORM/Defs.php
@@ -31532,6 +31537,14 @@ Crm/Classes/AclPortal/KnowledgeBaseArticle/AccessChecker.php
 Classes/AclPortal/KnowledgeBaseArticle/AccessChecker.php
 AclPortal/KnowledgeBaseArticle/AccessChecker.php
 KnowledgeBaseArticle/AccessChecker.php
+AccessChecker.php
+application/Espo/Modules/Crm/Classes/AclPortal/Case/AccessChecker.php
+Espo/Modules/Crm/Classes/AclPortal/Case/AccessChecker.php
+Modules/Crm/Classes/AclPortal/Case/AccessChecker.php
+Crm/Classes/AclPortal/Case/AccessChecker.php
+Classes/AclPortal/Case/AccessChecker.php
+AclPortal/Case/AccessChecker.php
+Case/AccessChecker.php
 AccessChecker.php
 application/Espo/Modules/Crm/Classes/AclPortal/Case/OwnershipChecker.php
 Espo/Modules/Crm/Classes/AclPortal/Case/OwnershipChecker.php
